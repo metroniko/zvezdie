@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\nik\source\repos\project12\project12\source.cpp(6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\nik\source\repos\project12\project12\source.cpp(35): warning C4018: <: несоответствие типов со знаком и без знака
+  Project12.vcxproj -> C:\Users\Nik\source\repos\Project12\Debug\Project12.exe
